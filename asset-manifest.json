@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CatGenerator/static/css/main.d7b2550e.chunk.css",
+    "main.css": "/CatGenerator/static/css/main.a7cdd08b.chunk.css",
     "main.js": "/CatGenerator/static/js/main.dd5c6a33.chunk.js",
     "main.js.map": "/CatGenerator/static/js/main.dd5c6a33.chunk.js.map",
     "runtime-main.js": "/CatGenerator/static/js/runtime-main.7b90c173.js",
@@ -8,16 +8,16 @@
     "static/js/2.8c5ffa0b.chunk.js": "/CatGenerator/static/js/2.8c5ffa0b.chunk.js",
     "static/js/2.8c5ffa0b.chunk.js.map": "/CatGenerator/static/js/2.8c5ffa0b.chunk.js.map",
     "index.html": "/CatGenerator/index.html",
-    "precache-manifest.5225d1e92b3e798bb67311dcf1fabf6c.js": "/CatGenerator/precache-manifest.5225d1e92b3e798bb67311dcf1fabf6c.js",
+    "precache-manifest.8b8997a342da421acb5caf2b3eae790c.js": "/CatGenerator/precache-manifest.8b8997a342da421acb5caf2b3eae790c.js",
     "service-worker.js": "/CatGenerator/service-worker.js",
-    "static/css/main.d7b2550e.chunk.css.map": "/CatGenerator/static/css/main.d7b2550e.chunk.css.map",
+    "static/css/main.a7cdd08b.chunk.css.map": "/CatGenerator/static/css/main.a7cdd08b.chunk.css.map",
     "static/js/2.8c5ffa0b.chunk.js.LICENSE.txt": "/CatGenerator/static/js/2.8c5ffa0b.chunk.js.LICENSE.txt",
     "static/media/defaultCat.png": "/CatGenerator/static/media/defaultCat.d4376ad6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7b90c173.js",
     "static/js/2.8c5ffa0b.chunk.js",
-    "static/css/main.d7b2550e.chunk.css",
+    "static/css/main.a7cdd08b.chunk.css",
     "static/js/main.dd5c6a33.chunk.js"
   ]
 }
